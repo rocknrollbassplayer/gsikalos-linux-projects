@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#script that will redirect stdout and stderr to a file
+#script that will gather system info
 
 
 echo -e echo -e "-------------------------------System Information----------------------------"
